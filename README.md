@@ -1,7 +1,7 @@
 ### AerialFishing
 
 ---
-![N|Solid](https://www.usbbog.edu.co/matlab/images/logo_acreditacion.png)
+![N|Solid](http://dachcolombia.com/wp-content/uploads/2017/07/7993_universidad-de-san-buenaventura.jpg)
 
 ---
 

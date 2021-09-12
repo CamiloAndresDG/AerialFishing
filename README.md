@@ -6,14 +6,16 @@
 ---
 
 ## About us 💻
+
 We are students of Systems Engineering at the University of San Buenaventura.
 
 ![Login](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 ---
 
 ## Concepts to consider 👀
+
 The presentation that is in the documents folder will be able to identify the requirements and general data of the project.
-|
+
 ---
 
 ## AerialFishing 📋
